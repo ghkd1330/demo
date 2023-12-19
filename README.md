@@ -14,3 +14,4 @@ main com
 git com
 
 stash1
+comment after stash

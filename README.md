@@ -15,3 +15,5 @@ git com
 
 stash1
 comment after stash
+stash333
+stash

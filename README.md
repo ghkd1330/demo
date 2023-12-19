@@ -8,14 +8,9 @@ commit 1
 commit 2
 git graph
 git graph
-
 feat/111
-
-
 feat/222
-
-
-
 main com
-
 git com
+
+stash main

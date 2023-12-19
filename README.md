@@ -13,6 +13,8 @@ feat/222
 main com
 git com
 
+stash333
+stash
 stash main
 stash1
 comment after stash

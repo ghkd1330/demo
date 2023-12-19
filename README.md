@@ -14,3 +14,7 @@ main com
 git com
 
 stash main
+stash1
+comment after stash
+stash333
+stash

@@ -6,3 +6,5 @@ merge test1
 description3
 commit 1
 commit 2
+git graph
+git graph
